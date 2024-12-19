@@ -1,0 +1,12 @@
+[package]
+name = "focal-stats-generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kamadak-exif = "0.6.1"
+walkdir = "2"
+lazy_static = "1.5.0"
+regex = "1.11.1"
+itertools = "0.13.0"
+indicatif = "0.17.9"
